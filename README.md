@@ -8,9 +8,10 @@ This repository contains a basic CRUD (Create, Read, Update, Delete) web applica
 - Display a list of notes in a tabular format
 - Responsive design using Bootstrap
 - Integration with DataTables for enhanced table functionality
+- Contact form page for users to submit their details
 
 **Usage:**
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository
 2. Set up a local server environment (e.g., XAMPP, WampServer) and import the provided SQL file to create the 'notes' database.
 3. Open the application in a web browser.
 
